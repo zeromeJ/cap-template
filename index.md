@@ -1,8 +1,6 @@
-# Project Title
+# Tm:ta
 
-Welcome to our GitHub Pages site for the **Capstone Project**.
-
-This page introduces the project, its goals, and provides useful links and documentation for users and contributors.
+<img src="header.png" style="width: 100%;" />
 
 ---
 
